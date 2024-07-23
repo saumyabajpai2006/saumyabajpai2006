@@ -6,7 +6,10 @@ Student and a learner in python data science
 
 I am a versatile professional with a robust skill set spanning C programming, Python, data science, and SQL. With a solid foundation in C, I excel in writing efficient, low-level code and implementing algorithms that optimize performance and memory usage. In Python, I leverage its extensive libraries and frameworks for data manipulation, statistical analysis and visualization. SQL forms an integral part of my toolkit, enabling me to manage and query relational databases efficiently. I am adept at designing schemas, writing SQL queries, optimizing database performance, and ensuring data integrity. My experience includes working with databases like MySQL. I am committed to continuous learning and staying abreast of industry trends and best practices in C, Python, data science, and SQL. This enables me to apply cutting-edge technologies and methodologies to solve real-world problems and drive innovation. My collaborative nature and strong problem-solving skills allow me to thrive in interdisciplinary teams, where I contribute to the development of data-driven solutions that have a positive impact. With a passion for leveraging technology to make data-driven decisions and create meaningful insights, I am eager to take on new challenges and contribute to projects that push the boundaries of what is possible in the fields of C programming, Python, data science, and SQL.
 
-<!--
+* 🌍  I'm based in India
+* ✉️  You can contact me at [saumyabajpai1001@gmail.com](mailto:saumyabajpai1001@gmail.com)
+* 🧠  I'm learning Python for data science
+* 🤝  I'm open to collaborating on interesting projects
 **saumyabajpai2006/saumyabajpai2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
